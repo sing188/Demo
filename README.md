@@ -5,3 +5,4 @@ MF-Tophat workspace setup
 Open Eclipse
 ![alt text](https://github.com/sing188/Demo/blob/master/Untitled.png)
 ![ Click here for Workspace setup document](https://github.com/sing188/Demo/blob/master/OG-Tophat-workspace-setup.pdf)
+[a relative link](https://github.com/sing188/Demo/blob/master/OG-Tophat%20workspace%20setup.docx)
