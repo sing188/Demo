@@ -1,7 +1,5 @@
 # Demo
-[![Plugin Version](https://img.shields.io/wordpress/plugin/v/dirtysuds-embed-pdf.svg)](https://wordpress.org/plugins/dirtysuds-embed-pdf/)
 MF-Tophat workspace setup
-OGMF- MF-Tophat
 
 1. Code Checkout Using Eclipse
 Open Eclipse
@@ -14,4 +12,4 @@ Copy the ssh url link( in red coclor).
 In Eclipse
 
 ![alt text](https://github.com/sing188/Demo/blob/master/Untitled.png)
-![Workspace setup Dopcument](https://github.com/sing188/Demo/blob/master/OG-Tophat%20workspace%20setup-converted.pdf)
+![ Click here for Workspace setup Dopcument](https://github.com/sing188/Demo/blob/master/OG-Tophat%20workspace%20setup-converted.pdf)
