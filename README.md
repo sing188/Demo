@@ -12,4 +12,5 @@ Copy the ssh url link( in red coclor).
 In Eclipse
 
 ![alt text](https://github.com/sing188/Demo/blob/master/Untitled.png)
-![alt text](https://github.com/sing188/Demo/blob/master/setUp.PNG)![](https://github.com/sing188/Demo/blob/master/OG-Tophat%20workspace%20setup-converted.pdf)
+![alt text](https://github.com/sing188/Demo/blob/master/setUp.PNG)
+![ Workspace setup document](https://github.com/sing188/Demo/blob/master/OG-Tophat%20workspace%20setup-converted.pdf)
